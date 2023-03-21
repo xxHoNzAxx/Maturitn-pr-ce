@@ -79,7 +79,7 @@ Budete potřebovat nainstalovat "auto-py-to-exe"
     <b>a) Script location</b><br />
       Klikněte na "browse" a vyberte ze dříve stažené složky soubor main.py<br />
     <b>b) Onefile</b><br />
-      Zvolte možnost One File<br />
+      Ujistěte se, že je zvolená možnost "One Directory"<br />
     <b>c) Icon</b><br />
       Pokud chcete, můžete nahrát ikonu (Jedna předpřipravená se nachází ve staženém souboru ve složce "Game/pictures/maps"<br />
     <b>d) Additional files</b><br />
@@ -87,8 +87,11 @@ Budete potřebovat nainstalovat "auto-py-to-exe"
       Zvolte "Add Files" a nahrajte soubory: "attacks", "backpack", "cards", "fields", "chance", "mons", "player", "rules" a "trainers"
       <br />
 5. Klikněte na "Konvert .Py to .EXE
-6. Otevřete nově vytvořenou složku
-7. Jděte do složky
+6. Vyčkejte a následně klikněte na "Open output folder"
+7. Jděte do složky "main"
+8. Najděte soubor "main.exe", klikněte na něj pravým tlačítkem a zvolte "Vytvořit zástupce"
+9. Vytvořeného zástupce zkopírujte nebo přesuňte například na plochu
+10. Dvojklikem na zástupce spustíte hru
 
 
 <!-- LICENSE -->
