@@ -32,6 +32,7 @@ Jedná se o hru, ve které hrají dva hráči proti sobě na jednom zařízení.
 <b>Body, které tuto hru nejlépe vystihují:</b>
 * Počítačová hra na styl deskové hry
 * Pokémoni
+* Pro dva hráče
 * Volnost pohybu
 * Možnost volby
 
@@ -116,3 +117,4 @@ Budete potřebovat nainstalovat "auto-py-to-exe"
 
 [Licence.com]: https://img.shields.io/github/license/xxHoNzAxx/Maturitni_prace?color=red&label=Licence
 [Size.com]: https://img.shields.io/github/repo-size/xxHoNzAxx/Maturitni_prace?color=Green&label=Size
+[Pokemon.com]: https://img.shields.io/badge/Pokemon-00008B?style=for-the-badge&logo=pok%C3%A9mon&logoColor=yellow
