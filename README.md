@@ -69,22 +69,25 @@ Budete potřebovat nainstalovat "auto-py-to-exe"
 
 
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Stáhněte si tento repozitář ZIP
+2. Rozbalte stažený ZIP soubor na libovolné místo ve vašem počítači
+3. Otevřete příkazový řádek a napište následující:
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   auto-py-to-exe
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-
-
+4. Otevře se vám stránka, která po vás bude chtít vyplnit pár informací:
+    a) Script location
+      * Klikněte na "browse" a vyberte ze dříve stažené složky soubor main.py
+    b) Onefile
+      * Zvolte možnost One File
+    c) Icon
+      * Pokud chcete, můžete nahrát ikonu (Jedna předpřipravená se nachází ve staženém souboru ve složce "Game/pictures/maps"
+    d) Additional files
+      * Zvolte "Add Folder" a vyberte složku "fonts", totéž zopakujte pro složku "pictures"
+      * Zvolte "Add Files" a nahrajte soubory: "attacks", "backpack", "cards", "fields", "chance", "mons", "player", "rules" a "trainers"
+5. Klikněte na "Konvert .Py to .EXE
+6. Otevřete nově vytvořenou složku
+7. Jděte do složky
 
 
 <!-- LICENSE -->
