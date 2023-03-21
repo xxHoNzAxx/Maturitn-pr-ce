@@ -93,7 +93,7 @@ Budete potřebovat nainstalovat "auto-py-to-exe"
 <!-- LICENSE -->
 ## Licence
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+![Licence][Licence.com]
 
 
 
@@ -109,3 +109,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [Pygame-url]: https://www.pygame.org/news
 [VSCode.com]: https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=1E90FF
 [VSCode-url]: https://code.visualstudio.com/
+
+[Licence.com]: https://img.shields.io/github/license/xxHoNzAxx/Maturitni_prace?color=red&label=Licence
+[Size.com]: https://img.shields.io/github/repo-size/xxHoNzAxx/Maturitni_prace?color=Green&label=Size
