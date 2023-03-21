@@ -59,7 +59,13 @@ Jedná se o hru, ve které hrají dva hráči proti sobě na jednom zařízení.
 
 
 ### Předpoklady
-
+Musíte mít nainstalovaný Python [Python-download]<br />
+Je třeba mít nainstalovaný pip<br />
+Musíte mít nainstalovyný pygame
+* pygame
+  ```sh
+  python -m pip install pygame
+  ```
 Budete potřebovat nainstalovat "auto-py-to-exe"
 * auto-py-to-exe
   ```sh
@@ -78,7 +84,7 @@ Budete potřebovat nainstalovat "auto-py-to-exe"
    ```
 4. Otevře se vám stránka, která po vás bude chtít vyplnit pár informací: <br />
     <b>a) Script location</b><br />
-      Klikněte na "browse" a vyberte ze dříve stažené složky soubor main.py<br />
+      Klikněte na "browse" a vyberte ze dříve stažené složky soubor main(.py)<br />
     <b>b) Onefile</b><br />
       Ujistěte se, že je zvolená možnost "One Directory"<br />
     <b>c) Icon</b><br />
@@ -87,10 +93,10 @@ Budete potřebovat nainstalovat "auto-py-to-exe"
       Zvolte "Add Folder" a vyberte složku "fonts", totéž zopakujte pro složku "pictures"<br />
       Zvolte "Add Files" a nahrajte soubory: "attacks", "backpack", "cards", "fields", "chance", "mons", "player", "rules" a "trainers"
       <br />
-5. Klikněte na "Konvert .Py to .EXE
+5. Klikněte na "Convert .Py to .EXE
 6. Vyčkejte a následně klikněte na "Open output folder"
 7. Jděte do složky "main"
-8. Najděte soubor "main.exe", klikněte na něj pravým tlačítkem a zvolte "Vytvořit zástupce"
+8. Najděte soubor "main(.exe)", klikněte na něj pravým tlačítkem a zvolte "Vytvořit zástupce"
 9. Vytvořeného zástupce zkopírujte nebo přesuňte například na plochu
 10. Dvojklikem na zástupce spustíte hru
 
@@ -118,3 +124,4 @@ Budete potřebovat nainstalovat "auto-py-to-exe"
 [Licence.com]: https://img.shields.io/github/license/xxHoNzAxx/Maturitni_prace?color=red&label=Licence
 [Size.com]: https://img.shields.io/github/repo-size/xxHoNzAxx/Maturitni_prace?color=Green&label=Size
 [Pokemon.com]: https://img.shields.io/badge/Pokemon-00008B?style=for-the-badge&logo=pok%C3%A9mon&logoColor=yellow
+[Python-download]: https://www.python.org/downloads/
