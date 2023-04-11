@@ -37,7 +37,6 @@ class Player:
                 if self.alive > 5:
                     self.alive = 0
                     return 0
-                    break
 
         elif len(self.mons) > 4:
             while True:
@@ -51,7 +50,6 @@ class Player:
                 if self.alive > 4:
                     self.alive = 0
                     return 0
-                    break
 
         elif len(self.mons) > 3:
             while True:
@@ -65,7 +63,6 @@ class Player:
                 if self.alive > 3:
                     self.alive = 0
                     return 0
-                    break
 
         elif len(self.mons) > 2:
             while True:
@@ -79,7 +76,6 @@ class Player:
                 if self.alive > 2:
                     self.alive = 0
                     return 0
-                    break
 
         elif len(self.mons) > 1:
             while True:
@@ -93,7 +89,6 @@ class Player:
                 if self.alive > 1:
                     self.alive = 0
                     return 0
-                    break
 
         elif len(self.mons) > 0:
             while True:
@@ -107,7 +102,6 @@ class Player:
                 if self.alive > 0:
                     self.alive = 0
                     return 0
-                    break 
   
         else:
             return True  
